@@ -4,10 +4,6 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.*;
 
-/**
- * Pruebas unitarias ultracortas y ultra simples para EcoPay Core Engine.
- * Matrícula QA: 2530451
- */
 public class CuentaBilleteraTest {
 
     // 1. Crear cuenta válida
