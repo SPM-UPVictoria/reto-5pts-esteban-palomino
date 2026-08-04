@@ -1,5 +1,4 @@
 package com.ecopay.core;
-
 /**
  * Hello world!
  *
